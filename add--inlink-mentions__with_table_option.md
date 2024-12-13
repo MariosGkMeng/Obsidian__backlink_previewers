@@ -24,11 +24,7 @@ let admonition_block_for_summary = "note";
 let all_blocks_in_quote = true;
  
 var notesToGiveOnlyLinks = [
-    "p770", "First working document", "Marios-Bjarne--23-08-30", 
-    "Master Student Simon Physics-Based MTL", "Hedvig", 
-    "✍⌛writing--PHEN--loss-landscapes", 
-    "✍⌛writing--WDOC1--quantities-factors we can use to characterize MTL Dynamics"
-];
+    "p770", "First working document"];
 
 var excludeFolder = ["👨‍💻Automations", "🔎 Traceability of literature reading"];
 var excludeFilesWithNamesStartingWith = ["datav"]; // DO NOT ADD "datav"!
